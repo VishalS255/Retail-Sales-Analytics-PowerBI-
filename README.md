@@ -14,6 +14,22 @@ The report is designed to help business stakeholders answer key questions such a
 - How is current sales performance compared to the previous year?
 
 ---
+## Dashboard Screenshots
+
+### Executive Summary
+![Executive Summary](Screenshots/executive_summary.png)
+
+### Product Analysis
+![Product Analysis](Screenshots/product_analysis.png)
+
+### Customer Analysis
+![Customer Analysis](Screenshots/customer_analysis.png)
+
+### Regional Analysis
+![Regional Analysis](Screenshots/regional_analysis.png)
+
+### Power BI Service Dashboard
+![Power BI Service Dashboard](Screenshots/powerbi_service_dashboard.png)
 
 ## Tools Used
 

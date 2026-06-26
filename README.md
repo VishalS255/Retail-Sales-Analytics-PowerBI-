@@ -30,7 +30,6 @@ The report is designed to help business stakeholders answer key questions such a
 
 ### Power BI Service Dashboard
 ![Power BI Service Dashboard](Screenshots/powerbi_service_dashboard.png)
-
 ## Tools Used
 
 - **Power BI Desktop**
